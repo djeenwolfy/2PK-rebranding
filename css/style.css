@@ -228,6 +228,8 @@
  }
  .img-news{
 /* 	width: 300px;*/
-
-
  }
+
+.text-shadow-1 {
+	text-shadow: 0 0 5px grey, 0 0 10px grey, 0 0 15px grey, 0 0 15px black, 0 0 30px black, 0 0 35px black, 0 0 45px black, 0 0 70px black;
+}
