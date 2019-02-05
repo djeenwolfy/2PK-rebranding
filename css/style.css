@@ -54,6 +54,8 @@
 
  footer.page-footer {
  	margin: 0;
+ 	padding-bottom: 1px;
+
  }
  .img-last-news{
  	height: 300px;
@@ -232,4 +234,8 @@
 
 .text-shadow-1 {
 	text-shadow: 0 0 5px grey, 0 0 10px grey, 0 0 15px grey, 0 0 15px black, 0 0 30px black, 0 0 35px black, 0 0 45px black, 0 0 70px black;
+}
+
+.text-shadow-2 {
+	text-shadow: 0 0 5px black, 0 0 10px black, 0 0 15px black, 0 0 15px black, 0 0 25px black, 0 0 30px black, 0 0 40px black, 0 0 65px black;
 }
